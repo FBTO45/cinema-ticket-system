@@ -23,7 +23,6 @@ B. Database Design
 
 
 ## Cara Menjalankan
-1. Clone repo: `git clone [url]`
-2. Setup database (lihat `migrations/schema.sql`)
-3. Install dependencies: `go mod tidy`
-4. Run: `go run src/main.go`
+1. Clone repo: `git clone [(https://github.com/FBTO45/cinema-ticket-system)]`
+2. Install dependencies: `go mod tidy`
+3. Run: `go run cmd/api/main.go`
