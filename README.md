@@ -3,6 +3,9 @@
 A. Desain Sistem
 1. Gambaran Flowchart
 
+![image](https://github.com/user-attachments/assets/e63c7601-53eb-419e-9891-22ba277a29e3)
+
+
 [USER] --> (Pilih Kursi) --> [SYSTEM: Lock Kursi 5m]
                           --> [Jika Terbayar] --> [Confirm]
                           --> [Jika Timeout] --> [Release Kursi]
